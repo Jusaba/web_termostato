@@ -1,0 +1,81 @@
+body {
+	background-image: linear-gradient(140deg, #212629, #395467);
+}
+
+#gauge_contenedor {
+		position: absolute;
+		top:50%;
+		left:50%;
+		width:350px;
+		margin-left:-175px;
+		height:350px;
+		margin-top:-200px;
+		padding:5px;
+}
+#CapaTitulo {
+		position: absolute;
+		top:2%;
+		left:50%;
+		width:350px;
+		margin-left:-175px;
+		padding:5px;
+}
+
+#Configurar {
+		position: absolute;
+		top:50%;
+		left:50%;
+		width:100px;
+		margin-left:-50px;
+		height:80px;
+		margin-top:225px;
+		padding:5px;
+}
+#slider {
+		position: absolute;
+		top:50%;
+		left:50%;
+		width:300px;
+		margin-left:-150px;
+		height:30px;
+		margin-top:200px;
+		padding:5px;
+}
+
+#Boton {
+		position: absolute;
+		top:50%;
+		left:50%;
+		width:100px;
+		margin-left:-70px;
+		height:80px;
+		margin-top:200px;
+		padding:5px;
+}
+
+#Configuracion{
+	float: left;
+}
+
+#customWindow{
+		position: absolute;
+		top:50%;
+		left:50%;
+		margin-top:-60px;		
+		padding:5px;	
+}
+
+.Titulo {
+    text-align: center;
+    font-size: 48px;
+    color: #FFFFFF;
+    float: center;
+}
+   .jqx-switchbutton-label-on
+    {
+        color: #FF0000;
+    }
+    .jqx-switchbutton-label-off
+    {
+       color: #00FF00;
+    }
